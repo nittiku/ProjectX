@@ -17,3 +17,28 @@ A user-friendly and a good-looking project management tool for organizations and
 6. Reporting and analytics: Provide users with reporting and analytics features that allow them to measure team productivity, identify bottlenecks, and optimize their workflows.
 
 7. Mobile app: Develop a mobile app that allows users to manage their projects on-the-go, including receiving push notifications for task updates and tracking time.
+
+
+## 1. Task management:
+
+### Determine what information needs to be stored for each task:
+a. Task name
+b. Task description
+c. Due date
+d. Assignee
+e. Status
+
+### Backend functionality to create, read, update, and delete tasks:
+a. Choose a backend framework (a javascript framework would be better)
+b. Choose a database
+
+### User Interface (ReactJS)
+a. Minimal and clutter-free components
+b. User should be able to create and edit tasks
+c. Display a graphical task list or a dashboard
+
+  ### UI components and functionality
+  a. Categories or labels
+  b. Priority levels
+  c. Ability to assign tasks to specific team members
+  d. Time tracking functionality (users can track the time spent on each task)
