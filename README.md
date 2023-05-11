@@ -23,6 +23,7 @@ A user-friendly and a good-looking project management tool for organizations and
 
 ### Determine what information needs to be stored for each task:
 a. Task name
+
 b. Task description
 c. Due date
 d. Assignee
