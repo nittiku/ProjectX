@@ -16,7 +16,7 @@ A user-friendly and a good-looking project management tool for organizations and
 10. Cloud storage for teams source code (later when we implement cloud storage)
 
 
-# What we need to consider:
+## What we need to consider:
 1. Task management: Allow users to create and assign tasks, set due dates, and track progress. This could include features such as task categories, labels, and priority levels.
 
 2. Time tracking: Enable users to track the time spent on each task, so they can better manage their workload and ensure that they meet project deadlines.
