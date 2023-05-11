@@ -3,6 +3,9 @@
 ## Purpose  
 A user-friendly and a good-looking project management tool for organizations and individuals
 
+
+
+
 ## Key aspects:
 1. Task management: Allow users to create and assign tasks, set due dates, and track progress. This could include features such as task categories, labels, and priority levels.
 
@@ -19,6 +22,8 @@ A user-friendly and a good-looking project management tool for organizations and
 7. Mobile app: Develop a mobile app that allows users to manage their projects on-the-go, including receiving push notifications for task updates and tracking time.
 
 
+
+
 ## 1. Task management:
 
 ### Determine what information needs to be stored for each task:
@@ -33,6 +38,8 @@ d. Assignee
 e. Status
 
 
+
+
 ### Backend functionality to create, read, update, and delete tasks:
 a. Choose a backend framework (a javascript framework would be better)
 
@@ -44,6 +51,7 @@ a. Minimal and clutter-free components
 b. User should be able to create and edit tasks
 
 c. Display a graphical task list or a dashboard
+
 
 
   ### UI components and functionality
