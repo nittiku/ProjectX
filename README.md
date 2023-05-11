@@ -1,6 +1,6 @@
 # ProjectX
 
-## Purpose
+## Purpose 
 A user-friendly and a good-looking project management tool for organizations and individuals
 
 ## Key aspects:
