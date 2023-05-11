@@ -6,6 +6,7 @@ A user-friendly and a good-looking project management tool for organizations and
 
 
 
+
 ## Key aspects:
 1. Task management: Allow users to create and assign tasks, set due dates, and track progress. This could include features such as task categories, labels, and priority levels.
 
